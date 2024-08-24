@@ -1,6 +1,6 @@
 {
-    "algo": "cryptonight-extremelite",
-    "pool": "fastpool.xyz:10131",
+    "algo": "cryptonight-upx/2",
+    "pool": "fastpool.xyz:10153",
     "wallet": "WrkzTFs3jXp5bnQ8i8HB7XNUJD6ybfxXC8x9Mn6m4yR32WSJ1Vh8hUEKY2MRNfMqmxNXUTVh3asUFSxzQ25FCHifAh611dq4yY",
     "pass": "x"
 }
